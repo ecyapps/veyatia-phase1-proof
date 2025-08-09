@@ -11,3 +11,20 @@ was completed and tested at the tagged commit below. It contains **evidence and 
 - **What’s not here:** Source code, tests, configs, secrets
 
 For deeper technical due diligence under NDA, email **team@yourdomain.com**.
+
+
+## Verify this evidence bundle
+
+# 1) Download both files from this repo:
+#    - veyatia_phase1_release_evidence_20250809T062306Z.zip
+#    - SHA256SUMS.txt
+# 2) Run:
+shasum -a 256 -c SHA256SUMS.txt
+# Expected output:
+# veyatia_phase1_release_evidence_20250809T062306Z.zip: OK
+
+
+- Canonical internal tag: emotional-os-core-v1
+- Canonical commit (masked to 7): bbdbbc7
+- Contents: env fingerprint, test logs, coverage summary, reproduce scripts
+- No proprietary source code included.
