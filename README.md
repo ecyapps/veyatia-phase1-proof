@@ -1,3 +1,9 @@
+[![Download Evidence Bundle](https://img.shields.io/badge/Download-Phase%201%20Evidence-blue)](<ZIP_FILE_URL>)
+
+## Verify this evidence bundle
+
+
+
 # veyatia-phase1-proof
 Public, evidence-only snapshot proving Veyatia Phase 1 core at tag emotional-os-core-v1 (commit bbdbbc7…). No source code.
 # Veyatia Emotional OS — Phase 1 Proof (Public Snapshot)
